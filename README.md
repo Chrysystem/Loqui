@@ -1,5 +1,5 @@
 # Loqui
-
+By nixiz0
 ![Loqui Logo](ressources/logo_loqui.png)
 
 Application allowing you to configure a text and a voice response, also allows you to open your applications with a chosen text trigger.
